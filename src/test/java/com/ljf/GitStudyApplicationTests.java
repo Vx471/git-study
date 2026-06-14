@@ -10,4 +10,9 @@ class GitStudyApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void test1() {
+    	System.out.println("test1");
+    }
+
 }
